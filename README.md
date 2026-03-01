@@ -66,14 +66,16 @@ Accordingly, the license is as follows:
 
 Chrome extension setup instructions:
 
-- 1. Download the ZIP file
-  Download the ZIP file from the release page of each extension.
-- 2. Open Chrome Extension Manager
-  Click the menu (top-right of Chrome) then Extensions then Manage Extensions.
-- 3. Drag and Drop the ZIP file
-  1. Enable Developer mode (toggle in the top-right of the Extensions page)
-  2. Drag and drop the downloaded ZIP file directly into the browser window
-  
+1. Download the ZIP file  
+   Download the ZIP file from the release page of each extension.
+
+2. Open Chrome Extension Manager  
+   Click the menu (top-right of Chrome) then Extensions then Manage Extensions.
+
+3. Drag and Drop the ZIP file  
+   Enable Developer mode (toggle in the top-right of the Extensions page)  
+   Drag and drop the downloaded ZIP file directly into the browser window
+
 
 ---
 
@@ -136,10 +138,12 @@ Chrome extension setup instructions:
 
 Chrome拡張機能の設定は以下の通り。
 
-- 1. ZIPファイルをダウンロード
-  各拡張機能のリリースページからZIPファイルをダウンロード。  
-- 2. Chromeの拡張機能管理画面を開く
-  Chrome右上の「︙」→「拡張機能」→「拡張機能を管理」
-- 3. ZIPファイルをドラッグ＆ドロップ
-  1. 管理画面右上の「デベロッパーモード」のスイッチをON
-  2. ダウンロードしたZIPファイルを、そのままブラウザ画面内にドラッグ＆ドロップ
+1. ZIPファイルをダウンロード  
+   各拡張機能のリリースページからZIPファイルをダウンロード。
+
+2. Chromeの拡張機能管理画面を開く  
+   Chrome右上の「︙」→「拡張機能」→「拡張機能を管理」
+
+3. ZIPファイルをドラッグ＆ドロップ  
+   管理画面右上の「デベロッパーモード」のスイッチをON  
+   ダウンロードしたZIPファイルを、そのままブラウザ画面内にドラッグ＆ドロップ
