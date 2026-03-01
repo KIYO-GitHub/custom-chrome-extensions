@@ -1,4 +1,4 @@
-# chrome-extensions
+# custom-chrome-extensions
 
 > 🇯🇵 [日本語はこちら](#japanese)
 >
